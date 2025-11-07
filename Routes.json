@@ -1,10 +1,11 @@
 [
-  {
-    "origin": "MUC",
-    "destination": "GRU",
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-31",
-    "max_price": 500,
-    "currency": "EUR"
-  }
+  { "origin": "MUC", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" },
+  { "origin": "FRA", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" },
+  { "origin": "ZRH", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" },
+  { "origin": "MXP", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" },
+  { "origin": "VCE", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" },
+  { "origin": "VIE", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" },
+  { "origin": "CDG", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" },
+  { "origin": "LIS", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" },
+  { "origin": "MAD", "destination": "GRU", "start_date": "2026-08-05", "end_date": "2026-08-10", "return_start_date": "2026-09-01", "return_end_date": "2026-09-10", "max_price": 400, "currency": "EUR" }
 ]
