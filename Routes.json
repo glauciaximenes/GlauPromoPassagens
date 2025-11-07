@@ -1,0 +1,10 @@
+[
+  {
+    "origin": "MUC",
+    "destination": "GRU",
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-31",
+    "max_price": 500,
+    "currency": "EUR"
+  }
+]
